@@ -1,6 +1,7 @@
 # Wake up your Heroku application by using Github Action
 name: AutoWakeupHeroku
 
+
 on: 
   release:
     types: [published]
